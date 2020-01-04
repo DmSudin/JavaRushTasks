@@ -23,10 +23,22 @@ public class Figure {
         return matrix;
     }
 
-    void left() {}
-    void right() {}
-    void down() {}
-    void up() {}
+    void left() {
+        x--;
+        if (!isCurrentPositionAvailable()) x++;
+    }
+    void right() {
+        x++;
+        if (!isCurrentPositionAvailable()) x--;
+    }
+    void down() {
+        y++;
+        if (!isCurrentPositionAvailable()) y--;
+    }
+    void up() {
+        y--;
+        if (!isCurrentPositionAvailable()) y++;
+    }
     void rotate() {}
     void downMaximum() {}
     boolean isCurrentPositionAvailable() {return true;}
