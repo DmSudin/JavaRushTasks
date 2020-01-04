@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
     </list>
@@ -32,22 +34,7 @@
     <favorites_list name="JavaRushTasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Условие.jrtc">
-          <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -129,10 +116,10 @@
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3208/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3212/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task32/task3212/ServiceLocator.java" />
-        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/FigureFactory.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java" />
       </list>
     </option>
   </component>
@@ -161,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -200,6 +186,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -668,9 +655,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.1951417" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.19757085" />
       <window_info id="Structure" order="1" weight="0.18380567" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
@@ -704,7 +690,7 @@
       <window_info anchor="right" id="Ant Build" order="13" weight="0.24939272" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.18299595" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.19757085" />
       <window_info id="Structure" order="1" weight="0.18380567" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
@@ -713,7 +699,7 @@
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32921174" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4689165" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.19182949" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
@@ -1290,13 +1276,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Компиляция">
       <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" column="72" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1311,18 +1290,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Условие.jrtc">
       <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Tetris.java">
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="82" column="36" selection-start-line="82" selection-start-column="36" selection-end-line="82" selection-end-column="36" />
+        <state relative-caret-position="365">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
     </entry>
   </component>
 </project>
