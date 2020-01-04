@@ -1,7 +1,6 @@
 package com.javarush.task.task22.task2213;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Класс Field описывает "поле клеток" игры Тетрис
@@ -106,37 +105,28 @@ public class Field {
      * Удаляем заполненные линии
      */
     public void removeFullLines() {
-        //Например так:
         //Создаем список для хранения линий
+        ArrayList<int[]> lines = new ArrayList<int[]>();
+
         //Копируем все непустые линии в список.
+        for (int i = 0; i < height; i++) {
+            //подсчитываем количество единиц в строке - просто суммируем все ее значения
+            int count = 0;
+            for (int j = 0; j < width; j++) {
+                count += matrix[i][j];
+            }
+
+            //Если сумма строки не равна ее ширине - добавляем в список
+            if (count != width)
+                lines.add(matrix[i]);
+        }
+
         //Добавляем недостающие строки в начало списка.
+        while (lines.size() < height) {
+            lines.add(0, new int[width]);
+        }
+
         //Преобразуем список обратно в матрицу
-        List<String> lines = new ArrayList<>();
-        int numOfEmptyLines = 0; // quantity of empty lines
-
-        for (int i = 0; i < height; i++) {
-            StringBuilder sb = new StringBuilder();
-            for (int j = 0; j < width; j++) {
-                sb.append(matrix[i][j]);         //  vice versa????
-            }
-            if (sb.toString().contains("0")) lines.add(sb.toString());
-            else numOfEmptyLines++;
-        }
-        StringBuilder emptyString = new StringBuilder();
-        for (int i = 0; i < width; i++) {
-            emptyString.append("0");
-        }
-
-        for (int i = 0; i < numOfEmptyLines; i++) {
-            lines.add(0, emptyString.toString());
-        }
-        for (int i = 0; i < height; i++) {
-            char[] chars = lines.get(i).toCharArray();
-            for (int j = 0; j < width; j++) {
-                matrix[i][j] = Integer.parseInt(String.valueOf(chars[j]));
-            }
-        }
-
-
+        matrix = lines.toArray(new int[height][width]);
     }
 }

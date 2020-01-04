@@ -80,13 +80,23 @@ public class Tetris {
      */
     public void step() {
         //опускам фигурку вниз
+        figure.down();
 
         //если разместить фигурку на текущем месте невозможно:
-        //поднимаем обратно
-        //приземляем
-        //если фигурка приземлилась на самом верху - игра окончена
-        //удаляем заполненные линии
-        //создаем новую фигурку
+        if (!figure.isCurrentPositionAvailable()) {
+//        if (!getFigure().isCurrentPositionAvailable()) {
+            //поднимаем обратно
+            figure.up();
+            //приземляем
+            figure.landed();
+            //если фигурка приземлилась на самом верху - игра окончена
+            if (!isGameOver) {
+                //удаляем заполненные линии
+                field.removeFullLines();
+                //создаем новую фигурку
+                figure = FigureFactory.createRandomFigure(field.getHeight(), field.getWidth());
+            }
+        }
 
     }
 
