@@ -1,2 +1,8 @@
 out\
-*.log 
+lib\
+.idea\
+*.log
+*.jar
+*.xml
+
+
