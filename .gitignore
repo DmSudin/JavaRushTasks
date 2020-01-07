@@ -4,5 +4,4 @@ lib\
 *.log
 *.jar
 *.xml
-
-
+*.properties
