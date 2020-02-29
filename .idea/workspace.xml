@@ -8,7 +8,6 @@
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
     </list>
@@ -36,31 +35,38 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc">
-          <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="94" column="39" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
+            <state relative-caret-position="276">
+              <caret line="157" column="51" selection-start-line="157" selection-start-column="51" selection-end-line="157" selection-end-column="51" />
               <folding>
                 <element signature="docComment;class#Space#0" />
-                <element signature="e#4320#4321#0" expanded="true" />
-                <element signature="e#4347#4348#0" expanded="true" />
-                <element signature="e#4390#4391#0" expanded="true" />
-                <element signature="e#4422#4423#0" expanded="true" />
-                <element signature="e#4461#4462#0" expanded="true" />
-                <element signature="e#4505#4506#0" expanded="true" />
-                <element signature="e#4534#4535#0" expanded="true" />
-                <element signature="e#4562#4563#0" expanded="true" />
-                <element signature="e#4592#4593#0" expanded="true" />
-                <element signature="e#4621#4622#0" expanded="true" />
-                <element signature="e#4662#4663#0" expanded="true" />
-                <element signature="e#4707#4708#0" expanded="true" />
-                <element signature="e#4752#4753#0" expanded="true" />
-                <element signature="e#4799#4800#0" expanded="true" />
+                <element signature="method#Space#0;class#Space#0" />
+                <element signature="docComment;method#run#0;class#Space#0" />
+                <element signature="method#run#0;class#Space#0" />
+                <element signature="e#1099#2372#1" />
+                <element signature="e#1213#1832#1" />
+                <element signature="docComment;method#moveAllItems#0;class#Space#0" />
+                <element signature="method#moveAllItems#0;class#Space#0" />
+                <element signature="e#2592#2630#1" />
+                <element signature="docComment;method#getAllItems#0;class#Space#0" />
+                <element signature="method#getAllItems#0;class#Space#0" />
+                <element signature="docComment;method#createUfo#0;class#Space#0" />
+                <element signature="method#createUfo#0;class#Space#0" />
+                <element signature="docComment;method#checkBombs#0;class#Space#0" />
+                <element signature="docComment;method#checkRockets#0;class#Space#0" />
+                <element signature="docComment;method#removeDead#0;class#Space#0" />
+                <element signature="docComment;method#draw#0;class#Space#0" />
+                <element signature="method#draw#0;class#Space#0" />
+                <element signature="e#5020#5140#1" />
+                <element signature="e#5071#5130#1" />
+                <element signature="e#5186#5286#1" />
+                <element signature="e#5333#5432#1" />
+                <element signature="e#5482#5526#1" />
+                <element signature="method#main#0;class#Space#0" />
+                <element signature="docComment;method#sleep#0;class#Space#0" />
+                <element signature="method#sleep#0;class#Space#0" />
+                <element signature="e#6304#6348#0" />
               </folding>
             </state>
           </provider>
@@ -69,6 +75,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
           <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc">
+          <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -172,7 +192,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1944" />
@@ -237,7 +257,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583006457349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583007955675" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -701,11 +721,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="720" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.12236629" />
-      <window_info active="true" id="Structure" order="1" visible="true" weight="0.17747164" />
+      <window_info id="Structure" order="1" visible="true" weight="0.17732793" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
       <window_info id="Image Layers" order="4" />
@@ -981,7 +1001,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java</url>
-          <line>155</line>
+          <line>197</line>
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
@@ -1316,19 +1336,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#119#120#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/KeyboardObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -1386,24 +1393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-          <folding>
-            <element signature="docComment;class#BaseObject#0" />
-            <element signature="method#BaseObject#0;class#BaseObject#0" />
-            <element signature="docComment;method#draw#0;class#BaseObject#0" />
-            <element signature="docComment;method#move#0;class#BaseObject#0" />
-            <element signature="method#move#0;class#BaseObject#0" />
-            <element signature="docComment;method#checkBorders#0;class#BaseObject#0" />
-            <element signature="method#checkBorders#0;class#BaseObject#0" />
-            <element signature="docComment;method#isIntersect#0;class#BaseObject#0" />
-            <element signature="method#isIntersect#0;class#BaseObject#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1414,35 +1403,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Bomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/BaseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+          <folding>
+            <element signature="docComment;class#BaseObject#0" />
+            <element signature="method#BaseObject#0;class#BaseObject#0" />
+            <element signature="docComment;method#draw#0;class#BaseObject#0" />
+            <element signature="docComment;method#move#0;class#BaseObject#0" />
+            <element signature="method#move#0;class#BaseObject#0" />
+            <element signature="docComment;method#checkBorders#0;class#BaseObject#0" />
+            <element signature="method#checkBorders#0;class#BaseObject#0" />
+            <element signature="docComment;method#isIntersect#0;class#BaseObject#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="157" column="51" selection-start-line="157" selection-start-column="51" selection-end-line="157" selection-end-column="51" />
+          <folding>
+            <element signature="docComment;class#Space#0" />
+            <element signature="method#Space#0;class#Space#0" />
+            <element signature="docComment;method#run#0;class#Space#0" />
+            <element signature="method#run#0;class#Space#0" />
+            <element signature="e#1099#2372#1" />
+            <element signature="e#1213#1832#1" />
+            <element signature="docComment;method#moveAllItems#0;class#Space#0" />
+            <element signature="method#moveAllItems#0;class#Space#0" />
+            <element signature="e#2592#2630#1" />
+            <element signature="docComment;method#getAllItems#0;class#Space#0" />
+            <element signature="method#getAllItems#0;class#Space#0" />
+            <element signature="docComment;method#createUfo#0;class#Space#0" />
+            <element signature="method#createUfo#0;class#Space#0" />
+            <element signature="docComment;method#checkBombs#0;class#Space#0" />
+            <element signature="docComment;method#checkRockets#0;class#Space#0" />
+            <element signature="docComment;method#removeDead#0;class#Space#0" />
+            <element signature="docComment;method#draw#0;class#Space#0" />
+            <element signature="method#draw#0;class#Space#0" />
+            <element signature="e#5020#5140#1" />
+            <element signature="e#5071#5130#1" />
+            <element signature="e#5186#5286#1" />
+            <element signature="e#5333#5432#1" />
+            <element signature="e#5482#5526#1" />
+            <element signature="method#main#0;class#Space#0" />
+            <element signature="docComment;method#sleep#0;class#Space#0" />
+            <element signature="method#sleep#0;class#Space#0" />
+            <element signature="e#6304#6348#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
       <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
     </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc">
       <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="94" column="39" selection-start-line="94" selection-start-column="39" selection-end-line="94" selection-end-column="39" />
-          <folding>
-            <element signature="docComment;class#Space#0" />
-            <element signature="e#4320#4321#0" expanded="true" />
-            <element signature="e#4347#4348#0" expanded="true" />
-            <element signature="e#4390#4391#0" expanded="true" />
-            <element signature="e#4422#4423#0" expanded="true" />
-            <element signature="e#4461#4462#0" expanded="true" />
-            <element signature="e#4505#4506#0" expanded="true" />
-            <element signature="e#4534#4535#0" expanded="true" />
-            <element signature="e#4562#4563#0" expanded="true" />
-            <element signature="e#4592#4593#0" expanded="true" />
-            <element signature="e#4621#4622#0" expanded="true" />
-            <element signature="e#4662#4663#0" expanded="true" />
-            <element signature="e#4707#4708#0" expanded="true" />
-            <element signature="e#4752#4753#0" expanded="true" />
-            <element signature="e#4799#4800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">
