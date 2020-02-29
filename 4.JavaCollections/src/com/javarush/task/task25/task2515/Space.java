@@ -15,11 +15,11 @@ public class Space {
     //Космический корабль
     private SpaceShip ship;
     //Список НЛО
-    private List<Ufo> ufos = new ArrayList<>();
+    private List<Ufo> ufos = new ArrayList<Ufo>();
     //Список бомб
-    private List<Bomb> bombs = new ArrayList<>();
+    private List<Bomb> bombs = new ArrayList<Bomb>();
     //Список ракет
-    private List<Rocket> rockets = new ArrayList<>();
+    private List<Rocket> rockets = new ArrayList<Rocket>();
 
     public Space(int width, int height) {
         this.width = width;
@@ -93,7 +93,7 @@ public class Space {
      * Метод возвращает общий список, который содержит все объекты игры
      */
     public List<BaseObject> getAllItems() {
-        List<BaseObject> list = new ArrayList<>(ufos);
+        ArrayList<BaseObject> list = new ArrayList<BaseObject>(ufos);
         list.add(ship);
         list.addAll(bombs);
         list.addAll(rockets);
@@ -104,10 +104,14 @@ public class Space {
      * Создаем новый НЛО. 1 раз на 10 вызовов.
      */
     public void createUfo() {
-        if (ufos.isEmpty()) {
-            ufos.add(new Ufo(getWidth()/2, 0));
-        }
+        if (ufos.size() > 0) return;
 
+        int random10 = (int) (Math.random() * 10);
+        if (random10 == 0) {
+            double x = Math.random() * width;
+            double y = Math.random() * height / 2;
+            ufos.add(new Ufo(x, y));
+        }
     }
 
     /**
@@ -117,14 +121,13 @@ public class Space {
      */
     public void checkBombs() {
         for (Bomb bomb : bombs) {
-            if (bomb.y > getHeight()) {
-                bomb.die();
-                return;
-            }
-            if (bomb.isIntersect(ship)) {
-                bomb.die();
+            if (ship.isIntersect(bomb)) {
                 ship.die();
+                bomb.die();
             }
+
+            if (bomb.getY() >= height)
+                bomb.die();
         }
     }
 
@@ -135,17 +138,15 @@ public class Space {
      */
     public void checkRockets() {
         for (Rocket rocket : rockets) {
-            if (rocket.getY() < 0) {
-                rocket.die();
-                return;
-            }
             for (Ufo ufo : ufos) {
-                if (rocket.isIntersect(ufo)) {
-                    rocket.die();
+                if (ufo.isIntersect(rocket)) {
                     ufo.die();
+                    rocket.die();
                 }
             }
 
+            if (rocket.getY() <= 0)
+                rocket.die();
         }
     }
 
@@ -153,9 +154,20 @@ public class Space {
      * Удаляем умершие объекты (бомбы, ракеты, НЛО) из списков
      */
     public void removeDead() {
-        bombs.removeIf(b->b.isAlive()==false);
-        rockets.removeIf(r-> r.isAlive() == false);
-        ufos.removeIf(ufo -> ufo.isAlive()==false);
+        for (BaseObject object : new ArrayList<BaseObject>(bombs)) {
+            if (!object.isAlive())
+                bombs.remove(object);
+        }
+
+        for (BaseObject object : new ArrayList<BaseObject>(rockets)) {
+            if (!object.isAlive())
+                rockets.remove(object);
+        }
+
+        for (BaseObject object : new ArrayList<BaseObject>(ufos)) {
+            if (!object.isAlive())
+                ufos.remove(object);
+        }
     }
 
     /**
@@ -195,16 +207,16 @@ public class Space {
         this.ship = ship;
     }
 
+    public List<Ufo> getUfos() {
+        return ufos;
+    }
+
     public int getWidth() {
         return width;
     }
 
     public int getHeight() {
         return height;
-    }
-
-    public List<Ufo> getUfos() {
-        return ufos;
     }
 
     public List<Bomb> getBombs() {
@@ -218,7 +230,7 @@ public class Space {
     public static Space game;
 
     public static void main(String[] args) throws Exception {
-        game = new Space(20, 20);
+        game = new Space(80, 80);
         game.setShip(new SpaceShip(10, 18));
         game.run();
     }
