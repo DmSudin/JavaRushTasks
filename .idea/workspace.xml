@@ -6,8 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
     </list>
     <ignored path="JavaRushTasks.iws" />
@@ -34,59 +33,16 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="233" column="44" lean-forward="true" selection-start-line="233" selection-start-column="44" selection-end-line="233" selection-end-column="44" />
-              <folding>
-                <element signature="docComment;class#Space#0" />
-                <element signature="e#464#470#0" expanded="true" />
-                <element signature="method#Space#0;class#Space#0" />
-                <element signature="docComment;method#run#0;class#Space#0" />
-                <element signature="method#run#0;class#Space#0" />
-                <element signature="e#1112#2385#1" />
-                <element signature="e#1226#1845#1" />
-                <element signature="docComment;method#moveAllItems#0;class#Space#0" />
-                <element signature="method#moveAllItems#0;class#Space#0" />
-                <element signature="e#2605#2643#1" />
-                <element signature="docComment;method#getAllItems#0;class#Space#0" />
-                <element signature="method#getAllItems#0;class#Space#0" />
-                <element signature="docComment;method#createUfo#0;class#Space#0" />
-                <element signature="method#createUfo#0;class#Space#0" />
-                <element signature="e#3172#3317#1" />
-                <element signature="docComment;method#checkBombs#0;class#Space#0" />
-                <element signature="method#checkBombs#0;class#Space#0" />
-                <element signature="e#3546#3737#1" />
-                <element signature="e#3588#3659#1" />
-                <element signature="docComment;method#checkRockets#0;class#Space#0" />
-                <element signature="method#checkRockets#0;class#Space#0" />
-                <element signature="e#3966#4223#1" />
-                <element signature="e#4001#4146#1" />
-                <element signature="e#4048#4132#1" />
-                <element signature="docComment;method#removeDead#0;class#Space#0" />
-                <element signature="method#removeDead#0;class#Space#0" />
-                <element signature="e#4408#4492#1" />
-                <element signature="e#4563#4649#1" />
-                <element signature="e#4717#4800#1" />
-                <element signature="docComment;method#draw#0;class#Space#0" />
-                <element signature="method#draw#0;class#Space#0" />
-                <element signature="e#5048#5168#1" />
-                <element signature="e#5099#5158#1" />
-                <element signature="e#5214#5314#1" />
-                <element signature="e#5361#5460#1" />
-                <element signature="e#5510#5554#1" />
-                <element signature="e#5919#5920#0" expanded="true" />
-                <element signature="e#5947#5948#0" expanded="true" />
-                <element signature="docComment;method#sleep#0;class#Space#0" />
-                <element signature="method#sleep#0;class#Space#0" />
-                <element signature="e#6347#6391#0" />
-              </folding>
+            <state relative-caret-position="241">
+              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Условие.jrtc">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc">
           <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
         </entry>
       </file>
@@ -125,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3106/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3108/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3109/Solution.java" />
@@ -176,6 +131,7 @@
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/SpaceShip.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Ufo.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java" />
       </list>
     </option>
   </component>
@@ -256,7 +212,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583008637917" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583049338458" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -288,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Space">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -515,20 +471,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3312.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task33.task3312.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3313.Solution" />
       <module name="4.JavaCollections" />
@@ -564,6 +506,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task33.task3306.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task34.task3402.Solution" />
+      <module name="4.JavaCollections" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task34.task3402.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -664,11 +620,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Space" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -720,11 +676,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="720" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.12236629" />
-      <window_info active="true" id="Structure" order="1" visible="true" weight="0.17747164" />
+      <window_info id="Structure" order="1" weight="0.1805668" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
       <window_info id="Image Layers" order="4" />
@@ -733,14 +689,14 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4689165" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.5612789" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.23623446" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3268206" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.37477797" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.32766616" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3516874" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.26465365" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.30373" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3298217" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32955465" />
@@ -753,12 +709,12 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Properties" order="10" />
       <window_info anchor="right" auto_hide="true" x="215" y="126" width="898" height="495" id="Documentation" order="11" side_tool="true" type="FLOATING" weight="0.5360324" />
-      <window_info anchor="right" id="Debug" order="12" weight="0.41619432" />
+      <window_info anchor="right" id="Debug" order="12" visible="true" weight="0.41619432" />
       <window_info anchor="right" id="Ant Build" order="13" weight="0.24939272" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.12236629" />
-      <window_info active="true" id="Structure" order="1" visible="true" weight="0.17813765" />
+      <window_info id="Structure" order="1" visible="true" weight="0.1805668" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
       <window_info id="Image Layers" order="4" />
@@ -767,14 +723,14 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.4689165" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.5612789" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.312611" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3268206" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.37477797" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.32766616" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3516874" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.26465365" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.30373" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3298217" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32955465" />
@@ -998,6 +954,12 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/2.JavaCore/src/com/javarush/task/task17/task1712/Table.java</url>
           <line>6</line>
@@ -1069,23 +1031,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.10.2-sources.jar!/com/fasterxml/jackson/core/io/IOContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="136" selection-start-line="136" selection-end-line="136" />
-          <folding>
-            <element signature="e#4197#4198#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.10.2-sources.jar!/com/fasterxml/jackson/core/JsonParser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="343" column="45" selection-start-line="343" selection-start-column="45" selection-end-line="343" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/jackson-core-2.10.2-sources.jar!/com/fasterxml/jackson/core/JsonStreamContext.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -1428,7 +1373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task25/task2515/Space.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="51">
           <caret line="233" column="44" lean-forward="true" selection-start-line="233" selection-start-column="44" selection-end-line="233" selection-end-column="44" />
           <folding>
             <element signature="docComment;class#Space#0" />
@@ -1473,6 +1418,16 @@
             <element signature="method#sleep#0;class#Space#0" />
             <element signature="e#6347#6391#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3402/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
         </state>
       </provider>
     </entry>
