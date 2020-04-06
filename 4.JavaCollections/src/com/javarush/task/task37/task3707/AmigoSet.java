@@ -14,6 +14,20 @@ public class AmigoSet<E> extends AbstractSet<E> implements Serializable, Cloneab
         map = new HashMap<>();
     }
 
+    @Override
+    public Object clone() throws InternalError {
+        AmigoSet clone;
+        try {
+           clone =  (AmigoSet) super.clone();
+            clone.map = (HashMap) this.map.clone();
+        } catch (Exception e) {
+            throw new InternalError();
+        }
+
+
+        return clone;
+    }
+
     public AmigoSet(Collection<? extends E> collection) {
         int capacity = Math.max(16, (int)Math.ceil(collection.size()/.75f));
         map = new HashMap<>(capacity);
