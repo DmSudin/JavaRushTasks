@@ -125,6 +125,7 @@ public class AmigoSet<E> extends AbstractSet<E> implements Serializable, Cloneab
             initialAmigoSet.add(i);
         }
 
+
         ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
         ObjectOutputStream objectOutputStream = new ObjectOutputStream(byteArrayOutputStream);
         objectOutputStream.writeObject(initialAmigoSet);
