@@ -6,6 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JavaRushPlugin.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JavaRushPlugin.properties" afterDir="false" />
     </list>
     <ignored path="JavaRushTasks.iws" />
@@ -30,32 +31,57 @@
     <favorites_list name="JavaRushTasks" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3511/Solution.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Cat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Sheep.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Elephant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Animal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="42" column="67" lean-forward="true" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
               <folding>
-                <element signature="method#main#0;class#Solution#0" />
-                <element signature="method#sum#0;class#Solution#0" />
-                <element signature="e#350#451#1" />
-                <element signature="method#multiply#0;class#Solution#0" />
-                <element signature="e#604#705#1" />
-                <element signature="method#combine#0;class#Solution#0" />
-                <element signature="e#1084#1196#1" />
+                <element signature="class#MyClassLoader#0;class#Solution#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/Валидация">
-          <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3511/Условие.jrtc">
+        <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Условие.jrtc">
           <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
         </entry>
       </file>
@@ -97,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task22/task2213/Figure.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3301/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3302/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3303/Solution.java" />
@@ -148,6 +173,7 @@
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3512/Generator.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3508/Solution.java" />
         <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3511/Solution.java" />
+        <option value="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Solution.java" />
       </list>
     </option>
   </component>
@@ -163,7 +189,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -177,7 +203,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,13 +244,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="task" type="462c0819:PsiDirectoryNode" />
               <item name="task35" type="462c0819:PsiDirectoryNode" />
-              <item name="task3511" type="462c0819:PsiDirectoryNode" />
+              <item name="task3507" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,24 +261,24 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586977458069" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587244172078" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.javarush.task.task16.task1630" />
       <recent name="com.javarush.task.task15.task1504" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,7 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -522,13 +548,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3504.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task35.task3507.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task35.task3504.*" />
+          <option name="PATTERN" value="com.javarush.task.task35.task3507.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -642,19 +668,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.House" />
       <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.House" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -706,28 +732,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="720" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.2048583" />
-      <window_info id="Structure" order="1" weight="0.273906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.20161943" />
+      <window_info id="Structure" order="1" weight="0.2736842" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
+      <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23481782" />
       <window_info id="Image Layers" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7882535" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.28596804" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.316847" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3268206" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.37477797" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.32766616" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3516874" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.30272108" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.54706925" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.30139104" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.42273533" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3298217" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32955465" />
@@ -743,25 +769,25 @@
       <window_info anchor="right" id="Ant Build" order="12" weight="0.24939272" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49825174" visible="true" weight="0.20502432" />
-      <window_info id="Structure" order="1" weight="0.273906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49825174" weight="0.20161943" />
+      <window_info active="true" id="Structure" order="1" visible="true" weight="0.2736842" />
       <window_info id="Nl-Palette" order="2" />
-      <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23558083" />
+      <window_info id="Favorites" order="3" sideWeight="0.50174826" side_tool="true" weight="0.23481782" />
       <window_info id="Image Layers" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Palette&#9;" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7882535" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.28748068" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49959514" weight="0.28593507" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3268206" />
       <window_info anchor="bottom" id="Terminal" order="6" weight="0.37477797" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.32766616" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50040483" side_tool="true" weight="0.3268206" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3516874" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.30293664" />
-      <window_info anchor="bottom" id="Debug" order="10" weight="0.54706925" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.30272108" />
+      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.3755796" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3298217" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Maven" order="2" weight="0.32955465" />
@@ -853,6 +879,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="clazz.getConstructors()" language="JAVA" />
+        <watch expression="Animal.class.isAssignableFrom(clazz)" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -893,111 +925,65 @@
     </expressions>
     <expressions id="watch">
       <expression>
-        <expression-string>mySet.map</expression-string>
+        <expression-string>Animal.class.isAssignableFrom(clazz)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>clazz</expression-string>
+        <expression-string>clazz.isAssignableFrom(Animal.class)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>this.getClass().getClassLoader()</expression-string>
+        <expression-string>clazz.getConstructors()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Arrays.toString(md.digest())</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>java.util.Arrays</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>md.</expression-string>
+        <expression-string>myClassLoader.loadClass(&quot;C:/JavaRush/JavaRushTasks/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Cat&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>md5.getBytes()</expression-string>
+        <expression-string>myClassLoader.loadClass(&quot;C:/JavaRush/JavaRushTasks/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Cat.class&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>md.digest()</expression-string>
+        <expression-string>myClassLoader.loadClass()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>md.toString()</expression-string>
+        <expression-string>myClassLoader.loadClass(java.lang.Object)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>md.getProvider()</expression-string>
+        <expression-string>myClassLoader.extractBinaryName(fileList.get(0))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Paths.get(fileString).getName(count)</expression-string>
+        <expression-string>Solution.class.getPackage().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Solution.class.getPackage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="setValue">
+      <expression>
+        <expression-string>&quot;/C:/JavaRush/JavaRushTasks/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data&quot;</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3434">
-          <caret line="227" column="19" selection-start-line="227" selection-start-column="19" selection-end-line="227" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="84" column="38" lean-forward="true" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="547" column="16" selection-start-line="547" selection-start-column="16" selection-end-line="547" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/io/Serializable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="168" column="17" selection-start-line="168" selection-start-column="17" selection-end-line="168" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc">
-      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
-    </entry>
     <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-300">
@@ -1336,6 +1322,320 @@
             <element signature="e#604#705#1" />
             <element signature="method#combine#0;class#Solution#0" />
             <element signature="e#1084#1196#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/4.JavaCollections/com/javarush/task/task35/task3507/data/Cat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_152/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="2195" column="54" lean-forward="true" selection-start-line="2195" selection-start-column="54" selection-end-line="2195" selection-end-column="54" />
+          <folding>
+            <element signature="docComment;class#ClassLoader#0" />
+            <element signature="class#ClassLoader#0" />
+            <element signature="initializer##0;class#ClassLoader#0" />
+            <element signature="e#7118#7191#0" />
+            <element signature="e#7118#8856#0" />
+            <element signature="e#7524#7621#0" />
+            <element signature="e#7631#7845#0" />
+            <element signature="e#7631#8533#0" />
+            <element signature="e#7951#8523#0" />
+            <element signature="e#8014#8450#1" />
+            <element signature="e#8036#8084#0" />
+            <element signature="e#8456#8509#1" />
+            <element signature="e#8543#8667#0" />
+            <element signature="e#8543#8850#0" />
+            <element signature="e#8777#8840#0" />
+            <element signature="e#10411#10637#0" />
+            <element signature="e#10552#10610#1" />
+            <element signature="e#10643#11302#0" />
+            <element signature="e#10787#11052#1" />
+            <element signature="e#11058#11296#1" />
+            <element signature="e#11308#11944#0" />
+            <element signature="e#12052#12691#0" />
+            <element signature="e#12817#13469#0" />
+            <element signature="e#12817#13589#0" />
+            <element signature="e#13595#15205#0" />
+            <element signature="e#13595#16688#0" />
+            <element signature="e#15362#16682#0" />
+            <element signature="e#15504#16576#1" />
+            <element signature="e#15571#15802#0" />
+            <element signature="e#15613#15695#1" />
+            <element signature="e#15701#15784#1" />
+            <element signature="e#15858#15909#0" />
+            <element signature="e#16021#16562#1" />
+            <element signature="e#16043#16096#0" />
+            <element signature="e#16602#16650#1" />
+            <element signature="e#16694#17426#0" />
+            <element signature="e#16694#17780#0" />
+            <element signature="e#17553#17753#1" />
+            <element signature="e#17696#17743#1" />
+            <element signature="e#17786#18275#0" />
+            <element signature="e#17956#18017#0" />
+            <element signature="e#18116#18216#1" />
+            <element signature="e#18150#18206#0" />
+            <element signature="e#18222#18269#1" />
+            <element signature="e#18281#19224#0" />
+            <element signature="e#18501#19193#1" />
+            <element signature="e#18559#18725#1" />
+            <element signature="e#18618#18687#1" />
+            <element signature="e#18848#19183#1" />
+            <element signature="class#18900:19112" />
+            <element signature="method#run#0;class#18900:19112" />
+            <element signature="e#19230#19946#0" />
+            <element signature="e#19230#20078#0" />
+            <element signature="e#20084#21853#0" />
+            <element signature="e#20084#22035#0" />
+            <element signature="e#22041#24615#0" />
+            <element signature="e#22041#24794#0" />
+            <element signature="e#24800#25781#0" />
+            <element signature="e#25222#25295#0" />
+            <element signature="e#25464#25622#1" />
+            <element signature="e#25647#25690#1" />
+            <element signature="e#25787#26071#0" />
+            <element signature="e#25981#26042#1" />
+            <element signature="e#26077#26343#0" />
+            <element signature="e#26185#26337#1" />
+            <element signature="e#26349#29580#0" />
+            <element signature="e#26349#30062#0" />
+            <element signature="e#30068#32808#0" />
+            <element signature="e#30068#33886#0" />
+            <element signature="e#33110#33590#1" />
+            <element signature="e#33142#33335#1" />
+            <element signature="e#33341#33580#1" />
+            <element signature="e#34414#34769#0" />
+            <element signature="e#34775#35781#0" />
+            <element signature="e#34991#35044#1" />
+            <element signature="e#35119#35363#1" />
+            <element signature="e#35153#35353#0" />
+            <element signature="e#35242#35339#1" />
+            <element signature="e#35369#35528#1" />
+            <element signature="e#35589#35775#1" />
+            <element signature="e#35787#35946#0" />
+            <element signature="e#35787#37178#0" />
+            <element signature="e#36165#36215#1" />
+            <element signature="e#36348#36402#0" />
+            <element signature="e#36517#36790#1" />
+            <element signature="e#36598#36742#1" />
+            <element signature="e#36648#36728#1" />
+            <element signature="e#36878#37150#1" />
+            <element signature="e#36958#37102#1" />
+            <element signature="e#37008#37088#1" />
+            <element signature="e#37184#37756#0" />
+            <element signature="e#37898#38761#0" />
+            <element signature="e#37898#39269#0" />
+            <element signature="e#38945#39224#1" />
+            <element signature="e#39119#39190#1" />
+            <element signature="e#39275#39383#0" />
+            <element signature="e#39275#39539#0" />
+            <element signature="e#39639#40153#0" />
+            <element signature="e#39639#40313#0" />
+            <element signature="e#40385#40649#0" />
+            <element signature="e#40784#41967#0" />
+            <element signature="e#40784#42274#0" />
+            <element signature="e#42055#42110#1" />
+            <element signature="e#42116#42173#1" />
+            <element signature="e#42199#42248#1" />
+            <element signature="e#42280#43655#0" />
+            <element signature="e#42280#44093#0" />
+            <element signature="e#43875#43934#1" />
+            <element signature="e#43940#44001#1" />
+            <element signature="e#44099#44482#0" />
+            <element signature="e#44561#45092#0" />
+            <element signature="e#44561#45234#0" />
+            <element signature="e#45240#45878#0" />
+            <element signature="e#45240#46140#0" />
+            <element signature="e#46146#46610#0" />
+            <element signature="e#46146#46852#0" />
+            <element signature="e#46747#46805#1" />
+            <element signature="e#46858#47505#0" />
+            <element signature="e#46858#47794#0" />
+            <element signature="e#47687#47746#1" />
+            <element signature="e#47800#47869#0" />
+            <element signature="e#47800#48082#0" />
+            <element signature="e#48088#48157#0" />
+            <element signature="e#48088#48622#0" />
+            <element signature="class#48377:48615" />
+            <element signature="e#48819#49232#0" />
+            <element signature="e#48819#49474#0" />
+            <element signature="e#49340#49409#0" />
+            <element signature="e#49432#49468#0" />
+            <element signature="e#49480#49930#0" />
+            <element signature="e#49480#50191#0" />
+            <element signature="e#50057#50126#0" />
+            <element signature="e#50149#50185#0" />
+            <element signature="e#50222#51404#0" />
+            <element signature="e#50222#51896#0" />
+            <element signature="e#51604#51867#1" />
+            <element signature="e#51618#51660#0" />
+            <element signature="e#51902#54769#0" />
+            <element signature="e#51902#55134#0" />
+            <element signature="e#54904#54940#1" />
+            <element signature="e#55023#55108#1" />
+            <element signature="e#55140#56244#0" />
+            <element signature="e#55220#56238#1" />
+            <element signature="e#55418#56201#1" />
+            <element signature="e#55521#55656#0" />
+            <element signature="e#55695#55896#0" />
+            <element signature="e#55807#55878#1" />
+            <element signature="e#55931#56187#1" />
+            <element signature="e#55980#56047#1" />
+            <element signature="e#56053#56169#1" />
+            <element signature="e#56250#56603#0" />
+            <element signature="e#56441#56554#1" />
+            <element signature="e#56500#56544#1" />
+            <element signature="e#56609#57211#0" />
+            <element signature="e#57217#57561#0" />
+            <element signature="e#57411#57447#1" />
+            <element signature="e#57567#58224#0" />
+            <element signature="e#57936#58218#1" />
+            <element signature="e#58111#58208#1" />
+            <element signature="e#58504#59849#0" />
+            <element signature="e#58504#60623#0" />
+            <element signature="e#60213#60617#0" />
+            <element signature="e#60288#60361#1" />
+            <element signature="e#60629#60957#0" />
+            <element signature="e#60629#61677#0" />
+            <element signature="e#61059#61108#0" />
+            <element signature="e#61134#61651#1" />
+            <element signature="e#61168#61230#1" />
+            <element signature="e#61236#61305#1" />
+            <element signature="e#61335#61641#1" />
+            <element signature="e#61377#61627#0" />
+            <element signature="e#61472#61544#1" />
+            <element signature="e#61550#61609#1" />
+            <element signature="e#61683#61933#0" />
+            <element signature="e#61683#62601#0" />
+            <element signature="e#62040#62094#0" />
+            <element signature="e#62147#62199#1" />
+            <element signature="e#62205#62264#1" />
+            <element signature="e#62291#62533#1" />
+            <element signature="e#62343#62523#1" />
+            <element signature="e#62443#62509#1" />
+            <element signature="e#62644#63233#0" />
+            <element signature="e#63317#64002#0" />
+            <element signature="e#63317#66144#0" />
+            <element signature="e#64836#65030#0" />
+            <element signature="e#65040#65923#0" />
+            <element signature="e#65114#65913#0" />
+            <element signature="e#65182#65899#1" />
+            <element signature="e#65350#65577#1" />
+            <element signature="e#65426#65555#1" />
+            <element signature="e#65713#65785#0" />
+            <element signature="e#65794#65881#0" />
+            <element signature="e#66783#67740#0" />
+            <element signature="e#67111#67182#1" />
+            <element signature="e#67425#67665#1" />
+            <element signature="e#67454#67522#1" />
+            <element signature="e#67544#67593#1" />
+            <element signature="e#67746#70049#0" />
+            <element signature="e#68063#68200#1" />
+            <element signature="e#68225#68408#1" />
+            <element signature="e#68284#68323#1" />
+            <element signature="e#68437#68990#1" />
+            <element signature="e#68535#68980#1" />
+            <element signature="e#68634#68787#1" />
+            <element signature="e#68842#68889#1" />
+            <element signature="e#69044#69403#1" />
+            <element signature="e#69176#69215#1" />
+            <element signature="e#69354#69393#1" />
+            <element signature="e#69432#69936#1" />
+            <element signature="e#69491#69926#1" />
+            <element signature="e#69671#69718#1" />
+            <element signature="e#69865#69912#1" />
+            <element signature="e#70118#73548#0" />
+            <element signature="e#70386#70884#1" />
+            <element signature="class#70468:70629" />
+            <element signature="e#70681#70726#1" />
+            <element signature="e#70743#70806#0" />
+            <element signature="e#70829#70874#0" />
+            <element signature="e#71125#73542#0" />
+            <element signature="e#71206#71372#1" />
+            <element signature="e#71306#71358#1" />
+            <element signature="e#71420#73532#0" />
+            <element signature="e#71477#71692#1" />
+            <element signature="e#72444#73010#1" />
+            <element signature="e#72568#72992#1" />
+            <element signature="e#72640#72708#1" />
+            <element signature="e#72714#72970#1" />
+            <element signature="e#73162#73228#0" />
+            <element signature="e#73237#73304#0" />
+            <element signature="e#73337#73488#1" />
+            <element signature="e#73554#74095#0" />
+            <element signature="e#73799#74071#0" />
+            <element signature="e#73880#74061#1" />
+            <element signature="e#75097#75815#0" />
+            <element signature="e#75097#76071#0" />
+            <element signature="e#75914#76065#0" />
+            <element signature="e#76077#77956#0" />
+            <element signature="e#76077#78292#0" />
+            <element signature="e#78117#78286#0" />
+            <element signature="e#78298#79314#0" />
+            <element signature="e#78298#79598#0" />
+            <element signature="e#79429#79592#0" />
+            <element signature="e#79604#80011#0" />
+            <element signature="e#79604#80423#0" />
+            <element signature="e#80256#80417#0" />
+            <element signature="e#80429#81407#0" />
+            <element signature="e#80429#82545#0" />
+            <element signature="e#81500#82539#0" />
+            <element signature="e#81514#81555#0" />
+            <element signature="e#81933#82112#1" />
+            <element signature="e#82145#82439#1" />
+            <element signature="e#82551#83381#0" />
+            <element signature="method#run#0;class#SystemClassLoaderAction#0" />
+            <element signature="e#83864#83902#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Elephant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Условие.jrtc">
+      <provider selected="true" editor-type-id="HomeWorkEditorType_Id" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/data/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task35/task3507/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="42" column="67" lean-forward="true" selection-start-line="42" selection-start-column="67" selection-end-line="42" selection-end-column="67" />
+          <folding>
+            <element signature="class#MyClassLoader#0;class#Solution#0" />
           </folding>
         </state>
       </provider>
